@@ -1,3 +1,4 @@
+#TP UNIDAD ESTRUCTURAS SECUENCIALES
 #ejercicio 1
 print ("Hola Mundo!")
 
@@ -57,7 +58,7 @@ print("El indice de masa corporal es:",masacorporal)
 
 #ejercicio 9 
 celcius=float(input("Ingrese temperatura en grado celcius."))
-fahrenheit=9/5 * celcius + 32
+fahrenheit= 9/5 * celcius + 32
 print(f"La temperatura equivalente de {celcius} grados celcius a fahrenheit es {fahrenheit} grados fahrenheit.")
 
 #ejercicio 10
@@ -65,4 +66,4 @@ num1= float(input("Ingrese primer numero"))
 num2= float(input("Ingrese segundo numero"))
 num3= float(input("Ingrese tercer numero")) 
 promedio= (num1+num2+num3)/3
-print("El promedio de estos tres numeros es de: ", promedio)
+print("El promedio de estos tres numeros es de: ", promedio )
